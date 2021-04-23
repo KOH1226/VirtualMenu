@@ -2,7 +2,8 @@
 
 ## 前書き
 
-本アプリケーションはHMD(Oculus CV1, Oculus Quest)およびLeapmotionを利用する前提で開発したものであり、  
+本アプリケーションはHMD(Oculus CV1, Oculus Quest)および  
+Leapmotionを利用する前提で開発したものであり、  
 その他の環境での動作確認は行っておりません。  
 開発環境としてUnity2019.2.13f1およびUnity2019.1.5f1を用いており、  
 LeapmotionはLeap_Motion_Developer_Kit_4.0.0+52173のSDKを利用しています。  
